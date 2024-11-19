@@ -1,0 +1,150 @@
+2024-11-19 17:56:11,692 - app - INFO - Adding token to blacklist
+2024-11-19 17:56:15,217 - app - INFO - Adding token to blacklist
+2024-11-19 17:57:38,190 - app - INFO - Adding token to blacklist
+2024-11-19 17:57:39,081 - app - INFO - Adding token to blacklist
+2024-11-19 18:05:32,670 - app - INFO - Processing request to: User Login
+2024-11-19 18:05:44,381 - app - INFO - Processing request: User Login
+2024-11-19 18:30:26,945 - app - INFO - Processing request: User Login
+2024-11-19 18:30:42,191 - app - INFO - Processing request: POST token to blacklist
+2024-11-19 18:30:42,194 - app - INFO - Processing request: token added to blacklist
+2024-11-19 18:31:26,502 - app - INFO - Processing request: DELETE token from blacklist
+2024-11-19 18:31:26,507 - app - INFO - Processing request: token removed from blacklist
+2024-11-19 18:34:32,360 - app - INFO - Processing request: User Login
+2024-11-19 18:35:39,880 - app - INFO - Processing request: User login
+2024-11-19 18:35:39,884 - app - INFO - Processing request: User logged in successfully
+2024-11-19 18:41:15,388 - app - ERROR - ('No token provided',)
+2024-11-19 18:41:58,933 - app - ERROR - Processing request: No token provided
+2024-11-19 18:43:56,641 - app - ERROR - Error processing request: No token provided
+2024-11-19 18:44:14,187 - app - ERROR - No token provided
+2024-11-19 18:45:46,163 - app - ERROR - No token provided
+2024-11-19 18:45:46,720 - app - ERROR - No token provided
+2024-11-19 18:45:47,352 - app - ERROR - No token provided
+2024-11-19 18:45:50,595 - app - INFO - User login
+2024-11-19 18:45:50,597 - app - INFO - User logged in successfully
+2024-11-19 18:46:09,898 - app - INFO - User login
+2024-11-19 18:46:09,901 - app - INFO - User logged in successfully
+2024-11-19 18:46:19,323 - app - INFO - POST token to blacklist
+2024-11-19 18:46:19,328 - app - INFO - Token added to blacklist
+2024-11-19 18:46:48,231 - app - INFO - DELETE token from blacklist
+2024-11-19 18:46:51,475 - app - INFO - DELETE token from blacklist
+2024-11-19 18:46:51,479 - app - INFO - Token removed from blacklist
+2024-11-19 18:52:35,309 - app - INFO - Token no longer blacklisted
+2024-11-19 18:53:06,581 - app - INFO - Token no longer blacklisted
+2024-11-19 18:53:11,661 - app - INFO - User login
+2024-11-19 18:53:11,665 - app - INFO - User logged in successfully
+2024-11-19 18:53:19,425 - app - INFO - POST token to blacklist
+2024-11-19 18:53:19,428 - app - INFO - Token added to blacklist
+2024-11-19 18:53:22,155 - app - INFO - Token no longer blacklisted
+2024-11-19 18:53:25,380 - app - INFO - Token is blacklisted
+2024-11-19 19:07:22,253 - app - INFO - User login
+2024-11-19 19:07:22,258 - app - INFO - User logged in successfully
+2024-11-19 19:07:55,439 - app - INFO - User login
+2024-11-19 19:07:55,443 - app - INFO - User logged in successfully
+2024-11-19 19:16:37,618 - app - INFO - User login
+2024-11-19 19:16:37,621 - app - INFO - User logged in successfully
+2024-11-19 19:16:54,239 - app - INFO - Token no longer blacklisted
+2024-11-19 19:17:09,202 - app - INFO - Token no longer blacklisted
+2024-11-19 19:17:11,264 - app - INFO - Token no longer blacklisted
+2024-11-19 19:17:23,780 - app - INFO - Token no longer blacklisted
+2024-11-19 19:17:25,599 - app - INFO - Token no longer blacklisted
+2024-11-19 19:17:35,112 - app - INFO - POST token to blacklist
+2024-11-19 19:17:35,117 - app - INFO - Token added to blacklist
+2024-11-19 19:17:38,099 - app - INFO - POST token to blacklist
+2024-11-19 19:17:42,194 - app - INFO - POST token to blacklist
+2024-11-19 19:17:42,200 - app - INFO - Token added to blacklist
+2024-11-19 19:17:48,309 - app - INFO - Token is blacklisted
+2024-11-19 19:19:40,843 - app - ERROR - No token provided
+2024-11-19 19:19:44,699 - app - INFO - Token is blacklisted
+2024-11-19 19:19:47,572 - app - INFO - Token is blacklisted
+2024-11-19 19:19:47,715 - app - INFO - Token is blacklisted
+2024-11-19 19:19:47,868 - app - INFO - Token is blacklisted
+2024-11-19 19:19:47,991 - app - INFO - Token is blacklisted
+2024-11-19 19:26:13,529 - app - INFO - User login
+2024-11-19 19:26:13,537 - app - INFO - User logged in successfully
+2024-11-19 19:26:21,297 - app - INFO - Token no longer blacklisted
+2024-11-19 19:26:26,049 - app - INFO - Token no longer blacklisted
+2024-11-19 19:26:33,073 - app - INFO - POST token to blacklist
+2024-11-19 19:26:33,076 - app - INFO - Token added to blacklist
+2024-11-19 19:26:37,670 - app - INFO - Token is blacklisted
+2024-11-19 19:31:42,413 - app - INFO - Token no longer blacklisted
+2024-11-19 19:31:51,507 - app - INFO - Token no longer blacklisted
+2024-11-19 19:32:06,936 - app - INFO - User login
+2024-11-19 19:32:06,939 - app - INFO - User logged in successfully
+2024-11-19 19:36:38,087 - app - INFO - POST token to blacklist
+2024-11-19 19:36:40,235 - app - INFO - POST token to blacklist
+2024-11-19 19:37:19,596 - app - INFO - POST token to blacklist
+2024-11-19 19:40:00,063 - app - INFO - POST token to blacklist
+2024-11-19 19:40:02,400 - app - INFO - POST token to blacklist
+2024-11-19 19:40:19,324 - app - INFO - POST token to blacklist
+2024-11-19 19:40:19,782 - app - INFO - POST token to blacklist
+2024-11-19 19:40:37,976 - app - INFO - POST token to blacklist
+2024-11-19 19:44:37,965 - app - INFO - POST token to blacklist
+2024-11-19 19:44:38,491 - app - INFO - POST token to blacklist
+2024-11-19 19:44:51,877 - app - INFO - User login
+2024-11-19 19:44:51,879 - app - INFO - User logged in successfully
+2024-11-19 19:44:59,722 - app - INFO - Token no longer blacklisted
+2024-11-19 19:45:41,251 - app - INFO - Token no longer blacklisted
+2024-11-19 19:45:43,657 - app - INFO - Token no longer blacklisted
+2024-11-19 19:45:46,027 - app - INFO - Token no longer blacklisted
+2024-11-19 19:47:15,184 - app - INFO - POST token to blacklist
+2024-11-19 19:52:38,473 - app - INFO - POST token to blacklist
+2024-11-19 19:52:39,377 - app - INFO - POST token to blacklist
+2024-11-19 19:53:00,759 - app - INFO - POST token to blacklist
+2024-11-19 19:53:01,262 - app - INFO - POST token to blacklist
+2024-11-19 19:53:13,504 - app - INFO - POST token to blacklist
+2024-11-19 19:53:24,424 - app - INFO - POST token to blacklist
+2024-11-19 19:53:46,254 - app - INFO - POST token to blacklist
+2024-11-19 19:53:47,401 - app - INFO - POST token to blacklist
+2024-11-19 19:53:55,246 - app - INFO - POST token to blacklist
+2024-11-19 20:34:55,025 - app - ERROR - No token provided
+2024-11-19 20:35:30,388 - app - ERROR - No token provided
+2024-11-19 20:35:30,973 - app - ERROR - No token provided
+2024-11-19 20:35:50,116 - app - ERROR - No token provided
+2024-11-19 20:36:03,915 - app - ERROR - No token provided
+2024-11-19 21:01:19,341 - app - ERROR - No token provided
+2024-11-19 21:13:20,728 - app - INFO - User login
+2024-11-19 21:13:20,730 - app - INFO - User logged in successfully
+2024-11-19 21:13:29,885 - app - INFO - User login
+2024-11-19 21:13:29,886 - app - INFO - User logged in successfully
+2024-11-19 21:13:47,005 - app - INFO - User login
+2024-11-19 21:13:47,010 - app - INFO - User logged in successfully
+2024-11-19 21:13:48,237 - app - INFO - User login
+2024-11-19 21:13:48,239 - app - INFO - User logged in successfully
+2024-11-19 21:16:43,154 - app - ERROR - No token provided
+2024-11-19 21:16:49,458 - app - INFO - Token no longer blacklisted
+2024-11-19 21:16:57,475 - app - ERROR - No token provided
+2024-11-19 21:17:04,767 - app - INFO - POST token to blacklist
+2024-11-19 21:17:04,769 - app - INFO - Token added to blacklist
+2024-11-19 21:17:11,183 - app - INFO - Token is blacklisted
+2024-11-19 21:35:18,021 - app - INFO - Token no longer blacklisted
+2024-11-19 21:35:20,674 - app - INFO - Token no longer blacklisted
+2024-11-19 21:35:41,253 - app - INFO - User login
+2024-11-19 21:35:41,256 - app - INFO - User logged in successfully
+2024-11-19 21:35:50,605 - app - INFO - Token no longer blacklisted
+2024-11-19 21:35:59,320 - app - INFO - POST token to blacklist
+2024-11-19 21:35:59,323 - app - INFO - Token added to blacklist
+2024-11-19 21:36:02,965 - app - ERROR - No token provided
+2024-11-19 21:36:09,475 - app - ERROR - No token provided
+2024-11-19 21:36:18,694 - app - INFO - User login
+2024-11-19 21:36:18,698 - app - INFO - User logged in successfully
+2024-11-19 21:36:26,136 - app - INFO - Token no longer blacklisted
+2024-11-19 21:36:30,504 - app - INFO - POST token to blacklist
+2024-11-19 21:36:30,510 - app - INFO - Token added to blacklist
+2024-11-19 21:36:33,057 - app - INFO - Token is blacklisted
+2024-11-19 21:36:36,358 - app - INFO - Token is blacklisted
+2024-11-19 21:36:42,780 - app - INFO - Token is blacklisted
+2024-11-19 21:36:47,400 - app - INFO - DELETE token from blacklist
+2024-11-19 21:36:47,402 - app - INFO - Token removed from blacklist
+2024-11-19 21:36:49,318 - app - ERROR - No token provided
+2024-11-19 21:36:54,928 - app - ERROR - No token provided
+2024-11-19 21:37:01,651 - app - INFO - User login
+2024-11-19 21:37:01,652 - app - INFO - User logged in successfully
+2024-11-19 21:37:08,225 - app - INFO - POST token to blacklist
+2024-11-19 21:37:08,228 - app - INFO - Token added to blacklist
+2024-11-19 21:37:12,502 - app - INFO - Token is blacklisted
+2024-11-19 21:37:17,492 - app - INFO - DELETE token from blacklist
+2024-11-19 21:37:17,494 - app - INFO - Token removed from blacklist
+2024-11-19 21:37:24,458 - app - INFO - Token no longer blacklisted
+2024-11-19 21:37:30,036 - app - INFO - Token no longer blacklisted
+2024-11-19 21:37:33,509 - app - ERROR - No token provided
+2024-11-19 21:39:50,772 - app - ERROR - No token provided

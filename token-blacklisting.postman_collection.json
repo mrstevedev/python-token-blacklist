@@ -1,0 +1,149 @@
+{
+	"info": {
+		"name": "Recruiting: Token Blacklisting",
+		"description": "Postman collection for use with the recruiting takehome exercise for token blacklisting.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/info",
+			"request": {
+				"auth": {
+					"type": "jwt",
+					"jwt": [
+						{
+							"key": "payload",
+							"value": "{ \"sub\": \"1001\", \"iss\": \"https://www.discogs.com/\", \"exp\": 2053218952 }",
+							"type": "string"
+						},
+						{
+							"key": "addTokenTo",
+							"value": "header",
+							"type": "string"
+						},
+						{
+							"key": "isSecretBase64Encoded",
+							"value": false,
+							"type": "boolean"
+						},
+						{
+							"key": "secret",
+							"value": "discogs",
+							"type": "string"
+						},
+						{
+							"key": "algorithm",
+							"value": "HS256",
+							"type": "string"
+						},
+						{
+							"key": "headerPrefix",
+							"value": "Bearer",
+							"type": "string"
+						},
+						{
+							"key": "queryParamKey",
+							"value": "token",
+							"type": "string"
+						},
+						{
+							"key": "header",
+							"value": "{}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:35000/info",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "35000",
+					"path": [
+						"info"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/blacklist",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "replace-me",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:35000/blacklist",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "35000",
+					"path": [
+						"blacklist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/blacklist",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "replace-me",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:35000/blacklist",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "35000",
+					"path": [
+						"blacklist"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
