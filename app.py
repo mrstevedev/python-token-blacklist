@@ -31,6 +31,9 @@ app.logger.addHandler(handler)
 @app.before_request
 def before_request():
     if request.endpoint != "login":
+        if request.headers.get("Authorization") is None:
+            app.logger.error("No token provided")
+            return jsonify({"success": False, "error": ERROR_NO_TOKEN_PROVIDED}), 400
         header = request.headers.get("Authorization")
         token = header.split()[1]
         try:
